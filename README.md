@@ -1,7 +1,11 @@
-# README
+# One Months Rails
 
-This README would normally document whatever steps are necessary to get the
+This is the pinteresting sample application for
+[*One Month Rails*](http://onemonthrails.com)
+
+by [Ernesto Gomez](http://ebgomez.com)
 application up and running.
+
 
 Things you may want to cover:
 
